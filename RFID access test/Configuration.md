@@ -1,4 +1,4 @@
-### Componrnents
+### Components
 - Arduino Uno
 - RFID RC522
 - RGB led module
