@@ -1,7 +1,6 @@
 # Safe box project
-Development (MBSE) and Proof of concept.
+Proof of concept.
 
-## Simulink MBSE development
 
 ## Keys elements
 4X4 keyboard, RFID card verification, servo motor control using Arduino.
