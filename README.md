@@ -1,7 +1,6 @@
 # Safe box project
 Proof of concept.
-
-
+![Alt text]([https://github.com/Jessica-MK/Summer2023/blob/main/System.PNG])
 ## Keys elements
 4X4 keyboard, RFID card verification, servo motor control using Arduino.
 
